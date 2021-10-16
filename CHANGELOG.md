@@ -8,7 +8,7 @@
 - introduction
 - ending
 
-### v0.4.1
+### v0.5.0
 - fixed a bug where you could move the detective after inspection, but before putting the item away
 - simplified code for changing backgrounds
 - added sound effect when changing backgrounds
