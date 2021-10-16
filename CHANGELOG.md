@@ -8,6 +8,8 @@
 - introduction
 - ending
 
+### v0.4.1
+- fixed a bug where you could move the detective after inspection, but before putting the item away
 ## v0.4.0 - 2021-10-16
 ### Changed
 - design and animation of buttons and go-back-arrow
