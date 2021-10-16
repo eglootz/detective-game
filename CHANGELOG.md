@@ -1,5 +1,11 @@
 # Changelog
 
+## upcoming features
+- new starting screen
+- new button animations
+- fixed a bug where you could move the detective during inspection
+- removed the time gap when switching scenes
+
 ## v0.3.0 - 2021-10-15
 ### Added
 - area for instructions
