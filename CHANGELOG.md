@@ -1,11 +1,22 @@
 # Changelog
 
 ## upcoming features
-- new starting screen
-- new button animations
-- redesigned the buttons (+ go back arrow)
+### next major release
+- instructions
+- credits
+- more clues
+- introduction
+- ending
+
+## v0.4.0 - 2021-10-16
+### Changed
+- design and animation of buttons and go-back-arrow
+
+### Removed
+- time gap when switching scenes
+
+### Fixed
 - fixed a bug where you could move the detective during inspection
-- removed the time gap when switching scenes
 
 ## v0.3.0 - 2021-10-15
 ### Added
