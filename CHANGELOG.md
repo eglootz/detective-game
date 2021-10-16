@@ -12,6 +12,7 @@
 - fixed a bug where you could move the detective after inspection, but before putting the item away
 - simplified code for changing backgrounds
 - added sound effect when changing backgrounds
+- added background music for menu
 
 ## v0.4.0 - 2021-10-16
 ### Changed
@@ -43,3 +44,4 @@
 - restrictions
 - movement
 - ability to find, inspect and put away clues (1)
+- basic sounds
