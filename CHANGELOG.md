@@ -15,6 +15,7 @@
 - added background music for menu
 - fixed a bug where footsteps would play on the main menu
 - simplified code for footsteps
+- simplified code for hiding fingerprints
 
 ## v0.4.0 - 2021-10-16
 ### Changed
