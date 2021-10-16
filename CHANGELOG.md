@@ -3,6 +3,7 @@
 ## upcoming features
 - new starting screen
 - new button animations
+- redesigned the buttons (+ go back arrow)
 - fixed a bug where you could move the detective during inspection
 - removed the time gap when switching scenes
 
