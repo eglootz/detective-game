@@ -8,14 +8,19 @@
 - introduction
 - ending
 
-### v0.5.0
-- fixed a bug where you could move the detective after inspection, but before putting the item away
-- simplified code for changing backgrounds
+## v0.5.0 - 2021-10-17
+### Added
 - added sound effect when changing backgrounds
-- added background music for menu
-- fixed a bug where footsteps would play on the main menu
+- added looping background music for menu
+
+### Changed
+- simplified code for changing backgrounds
 - simplified code for footsteps
 - simplified code for hiding fingerprints
+
+### Fixed
+- fixed a bug where you could move the detective after inspection, but before putting the item away
+- fixed a bug where footsteps would play on the main menu
 
 ## v0.4.0 - 2021-10-16
 ### Changed
