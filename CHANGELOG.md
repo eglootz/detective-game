@@ -8,6 +8,9 @@
 - introduction
 - ending
 
+### v0.6.0-alpha
+- added instructions and animation for the arrow keys (how-to-play area)
+
 ## v0.5.0 - 2021-10-17
 ### Added
 - added sound effect when changing backgrounds
